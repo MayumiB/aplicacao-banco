@@ -1,0 +1,20 @@
+{
+  "name": "testebanco",
+  "version": "1.0.0",
+  "description": "projeto teste banco ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayumiB/aplicacao-banco.git"
+  },
+  "author": "Danielle Mayumi",
+  "license": "ISC",
+  "type":"module",
+  "bugs": {
+    "url": "https://github.com/MayumiB/aplicacao-banco/issues"
+  },
+  "homepage": "https://github.com/MayumiB/aplicacao-banco#readme"
+}
